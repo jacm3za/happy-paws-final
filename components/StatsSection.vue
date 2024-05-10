@@ -30,13 +30,12 @@
           </h6>
           <h3 class="capitalize mb-6">Impact we make</h3>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-            pulvinar faucibus neque, nec rhoncus nunc ultrices sit amet.
+            With every purchase you make, we make a donation to someone in need
           </p>
           <div class="-mx-4 flex flex-wrap items-center">
             <div class="px-4 py-6 w-1/2">
               <h2 class="mb-2">1200+</h2>
-              <p>Animals Adopted</p>
+              <p>Purchases to date</p>
             </div>
             <div class="px-4 py-6 w-1/2">
               <h2 class="mb-2">1000+</h2>
@@ -48,7 +47,7 @@
             </div>
             <div class="px-4 py-6 w-1/2">
               <h2 class="mb-2">10K+</h2>
-              <p>Animals Helped</p>
+              <p>People helped </p>
             </div>
           </div>
         </div>

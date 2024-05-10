@@ -13,11 +13,10 @@
           Our Mission
         </h6>
         <h3 class="capitalize mb-2">
-          Life changing experience for a valuable cause
+          Speading peace and love, one plant at a time...
         </h3>
         <p class="mb-6">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus
-          pulvinar faucibus neque, nec rhoncus nunc ultrices sit amet.
+          Besides being pretty, plants bring life, peace and serentity to a space. Find out what a plant can do for you!
         </p>
         <BaseButton size="xl" to="/articles"> Learn More </BaseButton>
       </div>

@@ -89,14 +89,12 @@
                 </g>
               </svg>
               <h6 class="font-serif inline-flex items-center text-3xl">
-                Happy Paws
+                Happy Plant 
               </h6>
             </div>
           </NuxtLink>
           <p class="mt-2 text-center w-full lg:text-left">
-            Duis pharetra venenatis felis, ut tincidunt ipsum consequat nec.
-            Fusce et porttitor libero, eu aliquam nisi. Nam finibus ullamcorper
-            semper.
+            Dear Tim, if your seeing this I tried realy hard to change the pictures but their impossible to find! Also, your a great teacher, see you next year!
           </p>
           <div class="inline-flex mt-6 space-x-3">
             <div class="flex flex-wrap space-x-4">
@@ -252,7 +250,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDF8fHBldHxlbnwwfHx8fDE2MzA0NjI1MjM&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://images.unsplash.com/photo-1501004318641-b39e6451bec6?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGxhbnR8ZW58MHx8MHx8fDA%3D"
                   class="w-full"
                 />
               </div>
@@ -260,7 +258,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1491485880348-85d48a9e5312?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDE1fHxjYXR8ZW58MHx8fHwxNjMwNDY3NzE4&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://cdn.shopify.com/s/files/1/0150/6262/files/the-sill_LargeMoneyTree_Large_Mexiaplanter-CementGrey_variant.jpg?v=1712158732"
                   class="w-full"
                 />
               </div>
@@ -268,7 +266,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1591946614720-90a587da4a36?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDIzfHxwZXR8ZW58MHx8fHwxNjMwNDYyNTIz&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://i.pinimg.com/736x/c9/b7/46/c9b74695a041e9cc3ef094ccb8f6a2dd.jpg"
                   class="w-full"
                 />
               </div>
@@ -276,7 +274,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDI3fHxjYXR8ZW58MHx8fHwxNjMwNDY3NzE4&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://images-stylist.s3-eu-west-1.amazonaws.com/app/uploads/2023/01/11101849/the-stem-crop-1691745595-673x1010.jpg"
                   class="w-full"
                 />
               </div>
@@ -284,7 +282,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1524511751214-b0a384dd9afe?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDI4fHxwZXR8ZW58MHx8fHwxNjMwNDYyNTIz&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://hips.hearstapps.com/hmg-prod/images/alocasia-sanderiana-bull-or-alocasia-bambino-in-a-royalty-free-image-1659026074.jpg?crop=0.656xw:0.985xh;0.180xw,0.00510xh&resize=980:*"
                   class="w-full"
                 />
               </div>
@@ -292,7 +290,7 @@
             <div class="p-2 w-1/2 sm:w-4/12">
               <div class="block hover:opacity-75 overflow-hidden rounded-xl">
                 <NuxtImg
-                  src="https://images.unsplash.com/photo-1591561582301-7ce6588cc286?ixid=MnwyMDkyMnwwfDF8c2VhcmNofDMwfHxyYWJiaXR8ZW58MHx8fHwxNjMwNDY3NjUw&amp;ixlib=rb-1.2.1q=85&amp;fm=jpg&amp;crop=faces&amp;cs=srgb&amp;w=300&amp;h=250&amp;fit=crop"
+                  src="https://www.moffatts.co.nz/cdn/shop/articles/how_to_care_for_monstera_house_plants_d91d7f1b-9eaa-43f2-b9d0-014f69434c10_1920x.png?v=1647297882"
                   class="w-full"
                 />
               </div>

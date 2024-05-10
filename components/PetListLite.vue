@@ -10,17 +10,16 @@
         >
           <div class="px-4 text-center w-full">
             <h6 class="text-primary-100 dark:text-primary-700 uppercase">
-              Adopt A Pet
+              Adopt A Plant 
             </h6>
-            <h3 class="capitalize">Small Gesture For A Big Impact</h3>
+            <h3 class="capitalize">Add life to your home</h3>
             <p class="mb-4">
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
-              vitae congue tortor.
+              
             </p>
           </div>
           <div class="px-4 text-center w-full">
             <BaseButton size="xl" to="/adopt" color="secondary"
-              ><span>Meet Them All ></span>
+              ><span>Get Them All ></span>
             </BaseButton>
           </div>
         </div>

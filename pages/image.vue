@@ -1,3 +1,3 @@
 <template>
-<img src="/cover.png" class="w-64" />
+<img src="/cover.png" class="w-" />
 </template>
