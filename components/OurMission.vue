@@ -13,7 +13,7 @@
           Our Mission
         </h6>
         <h3 class="capitalize mb-2">
-          Speading peace and love, one plant at a time...
+          Spreading peace and love, one plant at a time...
         </h3>
         <p class="mb-6">
           Besides being pretty, plants bring life, peace and serentity to a space. Find out what a plant can do for you!

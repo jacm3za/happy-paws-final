@@ -27,7 +27,7 @@
   <section class="container mx-auto pb-12 px-4">
     <div
       class="bg-center bg-cover bg-no-repeat blur-none rounded-3xl z-0"
-      :style="bgStyles"
+      style="background-image: url('/pngtree-close-up-of-plants-in-tropical-jungle-image_2935046.jpg')"
     >
       <!-- <div
       class="bg-center bg-cover bg-no-repeat blur-none rounded-3xl z-0 bg-design-image lg:bg-design-image-large"
